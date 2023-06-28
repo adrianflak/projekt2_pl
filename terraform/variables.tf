@@ -1,5 +1,5 @@
 variable "resource_group" {
-  description = "The resource group"
+  description = "The resource group "
   default = "appservice-rg-poland"
 }
 
